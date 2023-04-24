@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+```elixir
 me
 |> "Build reliable, high-quality software and make time for the great outdoors."
 |> "😼 🌲 🐕"
+```
 
 <!--
 **cmnstmntmn/cmnstmntmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
