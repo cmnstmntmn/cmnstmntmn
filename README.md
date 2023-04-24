@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Experienced Node.js/React developer seeking transition to Elixir/LiveView.
+
 Build reliable, high-quality software and make time for the great outdoors.
 
 <!--
