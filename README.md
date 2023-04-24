@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Experienced Node.js/React developer seeking transition to Elixir. Passionate about learning, adaptable, and eager to contribute to a team leveraging Elixir's reliability and performance.
+Experienced Node.js/React developer seeking transition to Elixir. Passionate about learning, adaptable, and eager to contribute to a team leveraging **Elixir**'s reliability and performance.
 
 <!--
 **cmnstmntmn/cmnstmntmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
