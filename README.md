@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Experienced Node.js/React developer seeking transition to Elixir/LiveView.
-
-Build reliable, high-quality software and make time for the great outdoors.
-
+```elixir
+ me
+ |> "Experienced Node.js/React developer seeking transition to Elixir/LiveView."
+ |> "Build reliable, high-quality software and make time for the great outdoors."
+```
 <!--
 **cmnstmntmn/cmnstmntmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
