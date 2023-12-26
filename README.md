@@ -2,7 +2,7 @@
 
 ```elixir
 me
-|> "Build easy to reason about software, and make time for the great outdoors."
+|> "Enjoy the the great outdoors!"
 |> "😼 🌲 🐕"
 ```
 
