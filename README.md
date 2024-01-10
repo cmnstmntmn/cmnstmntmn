@@ -2,7 +2,7 @@
 
 ```elixir
 me
-|> "Enjoy the the great outdoors!"
+|> "Enjoy the great outdoors!"
 |> "😼 🌲 🐕"
 ```
 
