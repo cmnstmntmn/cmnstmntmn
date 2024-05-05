@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 ```elixir
 me
@@ -6,17 +6,20 @@ me
 |> "😼 🌲 🐕"
 ```
 
-<!--
-**cmnstmntmn/cmnstmntmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer since IE 6 era, self-taught.<br />
+Currently I'm making the switch from node.js to do full Elixir.
 
-Here are some ideas to get you started:
+- <constantin.angheloiu@gmail.com>
+- [Linkedin profile](https://www.linkedin.com/in/constantin-angheloiu-9b544a189/)
+- [resume](https://gist.github.com/cmnstmntmn/49158412f5bde8d3925e08e141273345)
+- [XOLO profile](https://app.xolo.io/profile/constantin.angheloiu?lang=en)
+- [github.com/cmnstmntmn](http://github.com/cmnstmntmn)
+- [@cmnstmntmn](https://twitter.com/cmnstmntmn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I use
+
+**Backend development**: Phoenix/LiveView, Astro/tRPC <br />
+**Frontend development**: Tailwind, React<br />
+**Prototyping**: Figma, NodeRed<br />
+**Cloud**: fly.io, Cloudflare, Supabase, AWS<br />
+**Persistence**: PostgresSQL, Cloudflare R2, S3
