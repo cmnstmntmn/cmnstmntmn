@@ -7,7 +7,7 @@ me
 ```
 
 Developer since IE 6 era, self-taught.<br />
-Currently I'm making the switch from node.js to do full Elixir.
+Currently I'm making the switch from node.js to full Elixir.
 
 - <constantin.angheloiu@gmail.com>
 - [YouTube channel](https://youtube.com/@cmnstmntmn)
