@@ -9,6 +9,7 @@ me
 Developer since IE 6 era, self-taught.<br />
 Currently I'm making the switch from node.js to full Elixir.
 
+### Profiles
 - <constantin.angheloiu@gmail.com>
 - [YouTube channel](https://youtube.com/@cmnstmntmn)
 - [Linkedin profile](https://www.linkedin.com/in/constantin-angheloiu-9b544a189/)
