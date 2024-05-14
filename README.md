@@ -1,8 +1,7 @@
 ## Constantin Angheloiu 👋
 Location: Bucharest, Romania
 
-> Developer since IE 6 era, self-taught.<br />
-Currently I'm making the switch from Node.JS to full Elixir.
+> Passionate about creating software with Elixir and Node.JS
 
 ### Project highlights
 
