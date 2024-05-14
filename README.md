@@ -28,3 +28,8 @@ Currently I'm making the switch from Node.JS to full Elixir.
 - [XOLO profile](https://app.xolo.io/profile/constantin.angheloiu?lang=en)
 - [github.com/cmnstmntmn](http://github.com/cmnstmntmn)
 - [@cmnstmntmn](https://twitter.com/cmnstmntmn)
+
+### Talks
+
+* [Elixir Lang - Now & beyond - Start simple, go far](https://github.com/cmnstmntmn/talks/blob/main/Elixir%20Lang%20-%20Now%20%26%20beyond%20-%20Start%20simple%2C%20go%20far.pdf) _March 2023_ <br />
+Demo Video - [Watch video](https://youtu.be/X4Hh8Oae9fk)
