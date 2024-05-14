@@ -18,7 +18,7 @@ Currently I'm making the switch from Node.JS to full Elixir.
 - **Frontend development**: Tailwind, React<br />
 - **Prototyping**: Figma, NodeRed<br />
 - **Cloud**: fly.io, Cloudflare, Supabase, AWS<br />
-- **Persistence**: PostgresSQL, Cloudflare R2, S3
+- **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, S3
 
 ### Profiles
 - <constantin.angheloiu@gmail.com>
@@ -29,7 +29,15 @@ Currently I'm making the switch from Node.JS to full Elixir.
 - [github.com/cmnstmntmn](http://github.com/cmnstmntmn)
 - [@cmnstmntmn](https://twitter.com/cmnstmntmn)
 
+### Licenses & certifications
+
+* [Elixir Phoenix LiveView](https://pragmaticstudio.com/alumni/cmnstmntmn)<br />
+<small>Skills: Elixir, Phoenix LiveView</small>
+* [ArangoDB Certified Proffesional](https://pragmaticstudio.com/alumni/cmnstmntmn](https://cmkr.co/pdf/downloads/?certificate_id=41174&sid=77664917&nrg_id=737496&test_id=1207231&aid=7122326&utype=SD&cert_token=d449517e6794689112023e153916e040&tprtoken=D9KH))<br />
+<small>Skills: ArangoDB, vector database</small>
+* [M101P MongoDB for Developers](https://university.mongodb.com/course_completion/563415fce7e2436594fd7372bd186cfa/printable)
+
 ### Talks
 
-* [Elixir Lang - Now & beyond - Start simple, go far](https://github.com/cmnstmntmn/talks/blob/main/Elixir%20Lang%20-%20Now%20%26%20beyond%20-%20Start%20simple%2C%20go%20far.pdf) _March 2023_ <br />
-Demo Video - [Watch video](https://youtu.be/X4Hh8Oae9fk)
+* [Elixir Lang - Now & beyond - Start simple, go far](https://github.com/cmnstmntmn/talks/blob/main/Elixir%20Lang%20-%20Now%20%26%20beyond%20-%20Start%20simple%2C%20go%20far.pdf) <br />
+<small>Demo Video - [Watch video](https://youtu.be/X4Hh8Oae9fk)</small>
