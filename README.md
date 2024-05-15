@@ -1,5 +1,6 @@
 ## Constantin Angheloiu 👋
-Location: Bucharest, Romania
+**Software Engineer**<br />
+Bucharest, Romania
 
 > Passionate about creating software with Elixir and Node.JS
 
