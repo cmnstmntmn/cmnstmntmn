@@ -18,7 +18,8 @@ Location: Bucharest, Romania
 - **Frontend development**: Tailwind, React<br />
 - **Prototyping**: Figma, NodeRed<br />
 - **Cloud**: fly.io, Cloudflare, Supabase, AWS<br />
-- **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, S3
+- **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, AWS S3, Prometheus
+- **Message queues**: VerneMQ, Cloudflare Queues
 
 ### Profiles
 - <constantin.angheloiu@gmail.com>
