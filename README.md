@@ -41,4 +41,4 @@ Bucharest, Romania
 
 ### Talks
 
-* [Elixir Lang - Now & beyond - Start simple, go far (video)](https://youtu.be/mRf20AANdYk)
+* [Elixir Lang - An alternative to bloated tech stacks (video)](https://youtu.be/mRf20AANdYk)
