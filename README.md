@@ -19,7 +19,7 @@ Bucharest, Romania
 - **Frontend development**: Tailwind, React<br />
 - **Prototyping**: Figma, NodeRed<br />
 - **Cloud**: fly.io, Cloudflare, Supabase, AWS<br />
-- **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, AWS S3, Prometheus
+- **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, CockrochDB, CouchDB, AWS S3, Prometheus
 - **Message queues**: VerneMQ, Cloudflare Queues
 
 ### Profiles
