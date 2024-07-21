@@ -35,7 +35,7 @@ Bucharest, Romania
 
 * [Elixir Phoenix LiveView](https://pragmaticstudio.com/alumni/cmnstmntmn)<br />
 <small>Skills: Elixir, Phoenix LiveView</small>
-* [ArangoDB Certified Proffesional](https://pragmaticstudio.com/alumni/cmnstmntmn](https://cmkr.co/pdf/downloads/?certificate_id=41174&sid=77664917&nrg_id=737496&test_id=1207231&aid=7122326&utype=SD&cert_token=d449517e6794689112023e153916e040&tprtoken=D9KH))<br />
+* [ArangoDB Certified Proffesional](https://cmkr.co/pdf/downloads/?certificate_id=41174&sid=77664917&nrg_id=737496&test_id=1207231&aid=7122326&utype=SD&cert_token=d449517e6794689112023e153916e040&tprtoken=D9KH)<br />
 <small>Skills: ArangoDB, vector database</small>
 * [M101P MongoDB for Developers](https://university.mongodb.com/course_completion/563415fce7e2436594fd7372bd186cfa/printable)
 
