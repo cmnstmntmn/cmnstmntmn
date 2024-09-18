@@ -7,7 +7,7 @@ Bucharest, Romania
 ### Project highlights
 
 - [CouchDB new logo contest winner](https://blog.couchdb.org/2016/09/20/2-0/) <br />
-- [Elixir LiveView/LiveView Native MacOS, WatchOS and iOS apps](https://blog.couchdb.org/2016/09/20/2-0/) <br />
+- [Elixir LiveView/LiveView Native MacOS, WatchOS and iOS apps](https://www.youtube.com/watch?v=X4Hh8Oae9fk) <br />
 - [IoT dashboard using MQTT Protocol, CockroachDB & Go Echo Framework](https://www.youtube.com/watch?v=1tvEvpvrvP8&feature=youtu.be) <br />
 - [A Want To be A Millionaire multiplayer game replica with a Node.js server and a reactive/websokets UI](https://youtu.be/21lq91TMCR4) <br />
 - [Sante demo app: Elixir, MQTT with MithrilJS and websockets on the frontend](https://www.youtube.com/watch?v=_CByzEkz0v0)
