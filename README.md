@@ -25,6 +25,7 @@ Bucharest, Romania
 ### Courses I've took
 
 - [**Live View**, **Elixir/OTP** from PragmaticStudio](https://pragmaticstudio.com/alumni/cmnstmntmn)
+- [**Elixir for programmers 2**, by Dave Thomas](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
 - Building AI Agents, SQLite, ELM Lang, and others from [FrontendMasters](https://frontendmasters.com/u/cmnstmntmn/)
 
 ### Licenses & certifications
