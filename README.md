@@ -27,15 +27,6 @@ Bucharest, Romania
 - [**Live View**, **Elixir/OTP** from PragmaticStudio](https://pragmaticstudio.com/alumni/cmnstmntmn)
 - Building AI Agents, SQLite, ELM Lang, and others from [FrontendMasters](https://frontendmasters.com/u/cmnstmntmn/)
 
-### Profiles
-- <constantin.angheloiu@gmail.com>
-- [YouTube channel](https://youtube.com/@cmnstmntmn)
-- [LinkedIn profile](https://www.linkedin.com/in/constantin-angheloiu-9b544a189/)
-- [Extended resume](https://gist.github.com/cmnstmntmn/49158412f5bde8d3925e08e141273345)
-- [XOLO profile](https://app.xolo.io/profile/constantin.angheloiu?lang=en)
-- [github.com/cmnstmntmn](http://github.com/cmnstmntmn)
-- [@cmnstmntmn](https://twitter.com/cmnstmntmn)
-
 ### Licenses & certifications
 
 * [Elixir Phoenix LiveView](https://pragmaticstudio.com/alumni/cmnstmntmn)<br />
@@ -47,3 +38,12 @@ Bucharest, Romania
 ### Talks
 
 * [Elixir Lang - An alternative to bloated tech stacks (video)](https://youtu.be/mRf20AANdYk)
+
+### Profiles
+- <constantin.angheloiu@gmail.com>
+- [YouTube channel](https://youtube.com/@cmnstmntmn)
+- [LinkedIn profile](https://www.linkedin.com/in/constantin-angheloiu-9b544a189/)
+- [Extended resume](https://gist.github.com/cmnstmntmn/49158412f5bde8d3925e08e141273345)
+- [XOLO profile](https://app.xolo.io/profile/constantin.angheloiu?lang=en)
+- [github.com/cmnstmntmn](http://github.com/cmnstmntmn)
+- [@cmnstmntmn](https://twitter.com/cmnstmntmn)
