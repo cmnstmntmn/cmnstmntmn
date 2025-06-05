@@ -22,6 +22,11 @@ Bucharest, Romania
 - **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, CockrochDB, CouchDB, AWS S3, Prometheus
 - **Message queues**: VerneMQ, Cloudflare Queues
 
+### Courses I've took
+
+- [**Live View**, **Elixir/OTP** from PragmaticStudio](https://pragmaticstudio.com/alumni/cmnstmntmn)
+- Building AI Agents, SQLite, ELM Lang, and others from [FrontendMasters](https://frontendmasters.com/u/cmnstmntmn/)
+
 ### Profiles
 - <constantin.angheloiu@gmail.com>
 - [YouTube channel](https://youtube.com/@cmnstmntmn)
