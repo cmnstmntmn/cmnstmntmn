@@ -2,7 +2,7 @@
 **Software Engineer**<br />
 Bucharest, Romania
 
-> Passionate about creating software with Elixir and Node.JS
+> Passionate about creating software with Elixir, Gleam and JavaScript
 
 ### Project highlights
 
