@@ -31,6 +31,7 @@ Bucharest, Romania
 
 ### Licenses & certifications
 
+* [Credly profile](https://www.credly.com/users/cmnstmntmn)
 * [Elixir Phoenix LiveView](https://pragmaticstudio.com/alumni/cmnstmntmn)<br />
 <small>Skills: Elixir, Phoenix LiveView</small>
 * [ArangoDB Certified Proffesional](https://cmkr.co/pdf/downloads/?certificate_id=41174&sid=77664917&nrg_id=737496&test_id=1207231&aid=7122326&utype=SD&cert_token=d449517e6794689112023e153916e040&tprtoken=D9KH)<br />
