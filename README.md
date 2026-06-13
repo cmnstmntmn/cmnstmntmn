@@ -30,7 +30,7 @@ Bucharest, Romania
 - Building AI Agents, SQLite, ELM Lang, and others from [FrontendMasters](https://frontendmasters.com/u/cmnstmntmn/)
 
 ### Licenses & certifications
-
+* [Claude Certified Architect](https://verify.skilljar.com/c/xyycqu4w2mfm)
 * [Credly profile](https://www.credly.com/users/cmnstmntmn)
 * [Elixir Phoenix LiveView](https://pragmaticstudio.com/alumni/cmnstmntmn)<br />
 <small>Skills: Elixir, Phoenix LiveView</small>
