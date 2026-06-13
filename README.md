@@ -16,12 +16,13 @@ Bucharest, Romania
 
 ### Skills & tools
 
+- **AI**: Claude, Gemini, MCP, Cloudflare AI Workers (multiple models)
 - **Backend development**: Phoenix/LiveView, Astro/tRPC <br />
 - **Frontend development**: Tailwind, React<br />
 - **Prototyping**: Figma, NodeRed<br />
 - **Cloud**: fly.io, Cloudflare, Supabase, AWS<br />
 - **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, CockrochDB, CouchDB, AWS S3, Prometheus
-- **Message queues**: VerneMQ, Cloudflare Queues
+- **Message queues**: VerneMQ, Cloudflare Queues, Cloudflare Workflows
 
 ### Courses I've took
 
