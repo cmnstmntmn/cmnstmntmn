@@ -1,53 +1,64 @@
-## Constantin Angheloiu 👋
-**Software Engineer**<br />
-Bucharest, Romania
+## Hi, I'm Constantin 👋
 
-> Passionate about creating software with Elixir, Gleam and JavaScript
+**Senior full-stack engineer** · Bucharest, Romania · 20 years building for the web
 
-### Project highlights
+I build fast, reliable, low-ops web products on **Cloudflare**, with **Gleam** and **TypeScript/JavaScript**, from the first sketch to production. I started in design, so I care about how things look as much as how they run.
 
-- [CouchDB new logo contest winner](https://blog.couchdb.org/2016/09/20/2-0/) <br />
-- [Elixir LiveView/LiveView Native MacOS, WatchOS and iOS apps](https://www.youtube.com/watch?v=X4Hh8Oae9fk) <br />
-- [Scrum Poker in Elixir LiveView/Live View Native](https://www.youtube.com/watch?v=Tnhm-eyHvCM)
-- [IoT dashboard using MQTT Protocol, CockroachDB & Go Echo Framework](https://www.youtube.com/watch?v=1tvEvpvrvP8&feature=youtu.be) <br />
-- [A Want To be A Millionaire multiplayer game replica with a Node.js server and a reactive/websokets UI](https://youtu.be/21lq91TMCR4) <br />
-- [Sante demo app: Elixir, MQTT with MithrilJS and websockets on the frontend](https://www.youtube.com/watch?v=_CByzEkz0v0)
+```gleam
+me
+|> one_dog
+|> one_cat
+|> doing("gleam & js")
+```
 
+### 🛠 What I work with
 
-### Skills & tools
+- **Edge & cloud:** Cloudflare Workers, Pages, D1, KV, R2, Durable Objects, Queues, Workflows, Workers AI · fly.io · Supabase · AWS · Exoscale
+- **Languages:** Gleam · TypeScript / JavaScript · Elixir · Go
+- **Frontend:** SolidJS · React · Lustre · Tailwind · MithrilJS
+- **Backend:** Node.js · Phoenix / LiveView · Astro / tRPC · REST APIs
+- **Real-time & messaging:** WebSockets · MQTT · VerneMQ · Cloudflare Queues & Workflows
+- **Data:** PostgreSQL · SQLite / D1 · CockroachDB · ArangoDB · CouchDB · R2 / S3 · Prometheus
+- **AI:** Claude · Gemini · MCP · Workers AI · AI agents
+- **Design & prototyping:** Figma · Node-RED
 
-- **AI**: Claude, Gemini, MCP, Cloudflare AI Workers (multiple models)
-- **Backend development**: Phoenix/LiveView, Astro/tRPC <br />
-- **Frontend development**: Tailwind, React<br />
-- **Prototyping**: Figma, NodeRed<br />
-- **Cloud**: fly.io, Cloudflare, Supabase, AWS<br />
-- **Persistence**: PostgresSQL, Cloudflare R2, ArangoDB, CockrochDB, CouchDB, AWS S3, Prometheus
-- **Message queues**: VerneMQ, Cloudflare Queues, Cloudflare Workflows
+### 🚀 Selected work
 
-### Courses I've took
+- **[CB Motion Pictures](https://cb-motion-pictures.com)**: migrated a film studio's website from WordPress to Cloudflare, cutting hosting costs and improving speed and Core Web Vitals
+- **[Real-time IoT dashboard](https://youtu.be/1tvEvpvrvP8)**: MQTT, CockroachDB and the Go Echo framework
+- **[Multiplayer "Who Wants to Be a Millionaire" replica](https://youtu.be/21lq91TMCR4)**: Node.js server with a real-time WebSocket UI
+- **[Sante loyalty card PWA](https://youtu.be/_CByzEkz0v0)**: Elixir, MQTT and MithrilJS over WebSockets
+- **[One Phoenix app, four platforms](https://youtu.be/X4Hh8Oae9fk)**: LiveView web plus LiveView Native apps for macOS, watchOS and iOS
+- **[Scrum Poker](https://youtu.be/Tnhm-eyHvCM)**: Elixir LiveView / LiveView Native
+- **[Apache CouchDB logo](https://blog.couchdb.org/2016/09/20/2-0/)**: winner of the 2016 new logo contest
 
-- [**Live View**, **Elixir/OTP** from PragmaticStudio](https://pragmaticstudio.com/alumni/cmnstmntmn)
-- [**Elixir for programmers 2**, by Dave Thomas](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
-- Building AI Agents, SQLite, ELM Lang, and others from [FrontendMasters](https://frontendmasters.com/u/cmnstmntmn/)
+### 🎤 Talks
 
-### Licenses & certifications
-* [Claude Certified Architect](https://verify.skilljar.com/c/xyycqu4w2mfm)
-* [Credly profile](https://www.credly.com/users/cmnstmntmn)
-* [Elixir Phoenix LiveView](https://pragmaticstudio.com/alumni/cmnstmntmn)<br />
-<small>Skills: Elixir, Phoenix LiveView</small>
-* [ArangoDB Certified Proffesional](https://cmkr.co/pdf/downloads/?certificate_id=41174&sid=77664917&nrg_id=737496&test_id=1207231&aid=7122326&utype=SD&cert_token=d449517e6794689112023e153916e040&tprtoken=D9KH)<br />
-<small>Skills: ArangoDB, vector database</small>
-* [M101P MongoDB for Developers](https://university.mongodb.com/course_completion/563415fce7e2436594fd7372bd186cfa/printable)
+- [Elixir Lang: an alternative to bloated tech stacks](https://youtu.be/mRf20AANdYk)
 
-### Talks
+### 🏅 Certifications
 
-* [Elixir Lang - An alternative to bloated tech stacks (video)](https://youtu.be/mRf20AANdYk)
+- [Claude Certified Architect – Foundations](https://verify.skilljar.com/c/xyycqu4w2mfm) (Anthropic)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d1734cc0-f04b-44cc-b2d6-185352e187a9)
+- Exoscale Certified Solution Architect
+- Deploy Gemini with Workspace Data Sources and Model Armor (Google Cloud)
+- Context Engineering Foundation (Cognizant)
+- Product Sense for Engineers in the AI Era (Maven)
+- [Phoenix LiveView & Elixir/OTP](https://pragmaticstudio.com/alumni/cmnstmntmn) (The Pragmatic Studio)
+- [ArangoDB Certified Professional](https://cmkr.co/pdf/downloads/?certificate_id=41174&sid=77664917&nrg_id=737496&test_id=1207231&aid=7122326&utype=SD&cert_token=d449517e6794689112023e153916e040&tprtoken=D9KH)
+- M101P: MongoDB for Developers (MongoDB University)
+- All badges: [Credly profile](https://www.credly.com/users/cmnstmntmn)
 
-### Profiles
-- <constantin.angheloiu@gmail.com>
-- [YouTube channel](https://youtube.com/@cmnstmntmn)
-- [LinkedIn profile](https://www.linkedin.com/in/constantin-angheloiu-9b544a189/)
-- [Extended resume](https://gist.github.com/cmnstmntmn/49158412f5bde8d3925e08e141273345)
-- [XOLO profile](https://app.xolo.io/profile/constantin.angheloiu?lang=en)
-- [github.com/cmnstmntmn](http://github.com/cmnstmntmn)
-- [@cmnstmntmn](https://twitter.com/cmnstmntmn)
+### 📚 Learning
+
+- [Elixir for Programmers 2](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2) by Dave Thomas
+- AI agents, SQLite, Elm and more on [Frontend Masters](https://frontendmasters.com/u/cmnstmntmn/)
+
+### 📫 Get in touch
+
+Open to senior full-stack roles and selected freelance projects.
+
+- ✉️ <constantin.angheloiu@gmail.com>
+- 💼 [LinkedIn](https://www.linkedin.com/in/cmnstmntmn/) · [Upwork](https://www.upwork.com/freelancers/~01167c0b9454346b96) · [XOLO](https://app.xolo.io/profile/constantin.angheloiu?lang=en)
+- 📄 [Extended resume](https://gist.github.com/cmnstmntmn/49158412f5bde8d3925e08e141273345)
+- 🎥 [YouTube](https://youtube.com/@cmnstmntmn) · 𝕏 [@cmnstmntmn](https://twitter.com/cmnstmntmn)
